@@ -37,7 +37,7 @@ About Myself
 
   <div class="section">
     <h2>🎓 About Me</h2>
-    <p>I am an enthusiastic MCA student with a strong interest in Core Java, Web Development, and building real-time projects like Girls' Security Systems. I'm self-motivated and passionate about learning new technologies and improving every day.</p>
+    <p>I am an enthusiastic BCS student with a strong interest in Core Java, Web Development, and building real-time projects like Girls' Security Systems. I'm self-motivated and passionate about learning new technologies and improving every day.</p>
   </div>
 
   <div class="section">
