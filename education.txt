@@ -1,0 +1,3 @@
+📚 BCS( Bachlor of Computer Science)  
+University: [Your University Name]  
+Subjects: Core Java, Software Quality, Networking, ASP.NET, etc.
